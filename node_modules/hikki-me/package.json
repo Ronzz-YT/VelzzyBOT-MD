@@ -1,0 +1,41 @@
+{
+  "name": "hikki-me",
+  "version": "2.0.0",
+  "description": "lopyou kack yang make module hikki-me",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "prettier": "prettier --write . --list-different",
+    "dev": "node example/example.js"
+  },
+  "keywords": [
+    "api",
+    "top-up",
+    "free-fire",
+    "top-up-api",
+    "mobile-legends",
+    "mobile-legend",
+    "ml",
+    "game",
+    "anto-chan",
+    "wa-bot",
+    "whatsapp-bot"
+  ],
+  "author": "hardianto-cpu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "crypto": "^1.0.1",
+    "fake-useragent": "^1.0.1",
+    "file-type": "^16.5.3",
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.0",
+    "node-webpmux": "^3.1.1",
+    "yt-search": "^2.10.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hardianto-cpu/hikki-me"
+  }
+}

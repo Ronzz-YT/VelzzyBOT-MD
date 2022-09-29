@@ -1,0 +1,6 @@
+module.exports.tools = require('./tools')
+module.exports.downloader = require('./downloader')
+module.exports.game = require('./game')
+module.exports.anime = require('./anime')
+module.exports.payment = require('./payment')
+module.exports.maker = require('./maker')
